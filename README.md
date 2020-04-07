@@ -1,1 +1,1 @@
-# Homework-JS.github.io
+# homeworkjs.github.io
